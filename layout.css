@@ -1,0 +1,17 @@
+  /* Portrait */
+@media screen and (orientation:portrait) {
+   /* Portrait styles here */
+  div {
+  padding-left: 7%;
+  padding-right: 7%;
+  }
+}
+
+/* Landscape */
+@media screen and (orientation:landscape) {
+   /* Landscape styles here */
+  div {
+  padding-left: 27%;
+  padding-right: 27%;
+  }
+}
